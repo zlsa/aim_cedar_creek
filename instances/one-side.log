@@ -1,0 +1,118 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.vmf
+Map revision 713
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-176.00 404.00 -50.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40849 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 75
+Reduced 14 texdatas to 14 (469 bytes to 469)
+Writing c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt
+LoadPortals: couldn't read c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.vmf
+Map revision 820
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (128.00 0.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 114 texinfos to 81
+Reduced 16 texdatas to 16 (523 bytes to 523)
+Writing c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt
+LoadPortals: couldn't read c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.vmf
+Map revision 2047
+Patching WVT material: maps/one-side/asphalt/hr_c/hr_asphalt_001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-352.00 -464.00 416.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 62 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (112420 bytes)
+Static prop models/props/de_nuke/hr_nuke/signs/sign_keep_clear_001_small.mdl outside the map (536.00, -456.00, 49.92)
+Static prop models/props/de_nuke/hr_nuke/web_joist_001/web_joist_001_large_8.mdl outside the map (-184.00, 288.00, 484.00)
+Static prop models/props/de_nuke/hr_nuke/web_joist_001/web_joist_001_large_128.mdl outside the map (-56.00, 96.00, 484.00)
+Static prop models/props/de_nuke/hr_nuke/web_joist_001/web_joist_001_large_8.mdl outside the map (-184.00, 96.00, 484.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_corner_large.mdl outside the map (-408.00, -464.00, 432.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_wallcap.mdl outside the map (-424.00, -464.00, 488.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_straight_8.mdl outside the map (-424.00, -464.00, 480.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_frame.mdl outside the map (-96.00, -464.00, 488.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_noose.mdl outside the map (-96.00, -464.00, 416.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_frame.mdl outside the map (-352.00, -464.00, 488.00)
+Static prop models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001d_noose.mdl outside the map (-352.00, -464.00, 416.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 373 texinfos to 203
+Reduced 39 texdatas to 38 (1324 bytes to 1296)
+Writing c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.bsp
+reading c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt
+LoadPortals: couldn't read c:\users\pewpewresearch\documents\csgo\aim_cedar_creek\instances\one-side.prt

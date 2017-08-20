@@ -1,0 +1,40 @@
+// aim_cedar_creek
+//
+// A 1v1 aim/demolition map by PewPewResearch
+
+// Overview: scale 3.00, pos_x -1536, pos_y 1536
+// setpos_exact 0 0 266; setang_exact 0 169 0
+
+"aim_cedar_creek" {
+
+  "material"	"overviews/aim_cedar_creek_radar"
+
+  "pos_x"		"-1444"
+
+  "pos_y"		"1444"
+  "scale"		"2.82"
+
+  "rotate"	"90"
+
+  "zoom"		"3"
+
+  "CTSpawn_x"	"0.36"
+  "CTSpawn_y"	"0.5"
+
+  "TSpawn_x"	"0.64"
+  "TSpawn_y"	"0.5"
+
+  "bombA_x"	"0.5"
+	"bombA_y"	"0.5"
+
+  "verticalsections" {
+    "default"	{
+      "AltitudeMax" "10000"
+      "AltitudeMin" "-90"
+    }
+    "lower"	{
+      "AltitudeMax" "-120"
+      "AltitudeMin" "-10000"
+    }
+  }
+}
